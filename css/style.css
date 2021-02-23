@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ h2 {
+    color: white;
+    margin: 0px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 48px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.box1 {
+    background-image: url('../img/tigre.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+    display: table;
+}
+
+.box2 {
+    background-image: url('../img/leao.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+    display: table;
+}
+
+.box3 {
+    background-image: url('../img/lince-iberico.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+    display: table;
+}
+
+.box4 {
+    background-image: url('../img/onça-pinatda.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+    display: table;
+}
+
+.box5 {
+    background-image: url('../img/leopardo-da-neve.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+    display: table;
+}
+
+.box6 {
+    background-image: url('../img/guepardo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 700px;
+    display: table;
+}
